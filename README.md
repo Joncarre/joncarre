@@ -81,7 +81,7 @@ Hey! I'm Jonathan, a Software Engineer who finished his PhD Thesis in 2023. Duri
 > 🚀 You can take a look to know more about me!
 > 
 <p align="center">
-  <a href="https://github.com/Joncarre"><img src="https://raw.githubusercontent.com/Joncarre/Joncarre/main/logo/web.svg" width="32"/></a>
+  <a href="https://jonathancarrero.com"><img src="https://raw.githubusercontent.com/Joncarre/Joncarre/main/logo/web.svg" width="32"/></a>
 &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/jonathancarrero"><img src="https://raw.githubusercontent.com/Joncarre/Joncarre/main/logo/linkedin.svg" width="32"/></a>
 &nbsp;&nbsp;&nbsp;
