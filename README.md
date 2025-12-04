@@ -58,6 +58,12 @@ Hello! I'm Jonathan, a Software Engineer who finished his PhD Thesis in 2023. Du
 <br />
 <br />
 
+[Stats del perfil](https://github.com/Joncarre?tab=repositories)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=joncarre&show_icons=true)
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joncarre&layout=compact)
+
+
 
 <!-- Tools section -->
 > 💻 Tools, languages, and other things that I like to work with.
