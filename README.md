@@ -25,33 +25,39 @@ Hello! I'm Jonathan, a Software Engineer who finished his PhD Thesis in 2023. Du
   <a href="https://github.com/Joncarre?tab=repositories">
     <picture>
       <source
-        srcset="https://github-readme-stats.vercel.app/api?username=joncarre&show_icons=true&theme=noctis_minimus"
+        srcset="https://github-readme-stats.vercel.app/api?username=joncarre&amp;show_icons=true&amp;theme=noctis_minimus"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-readme-stats.vercel.app/api?username=joncarre&show_icons=true&theme=vue"
+        srcset="https://github-readme-stats.vercel.app/api?username=joncarre&amp;show_icons=true&amp;theme=vue"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-        <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=joncarre&show_icons=true" />
+      <img height="170" align="center"
+        src="https://github-readme-stats.vercel.app/api?username=joncarre&amp;show_icons=true" />
     </picture>
   </a>
+
   &nbsp;&nbsp;
+
   <a href="https://github.com/Joncarre?tab=repositories">
     <picture>
       <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joncarre&layout=compact&show_icons=true&theme=noctis_minimus"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joncarre&amp;layout=compact&amp;show_icons=true&amp;theme=noctis_minimus"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joncarre&layout=compact&show_icons=true&theme=vue"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joncarre&amp;layout=compact&amp;show_icons=true&amp;theme=vue"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-        <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joncarre&layout=compact" />
+      <img height="170" align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=joncarre&amp;layout=compact" />
     </picture>
   </a>
 </div>
+
 <br />
 <br />
+
 
 <!-- Tools section -->
 > 💻 Tools, languages, and other things that I like to work with.
