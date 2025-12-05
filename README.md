@@ -22,7 +22,7 @@ Hello! I'm Jonathan, a Software Engineer who finished his PhD Thesis in 2023. Du
 >
 
 <div align="center">
-  <img src="https://iili.io/fT3cInt.png" alt="GitHub stats" />
+  <img src="https://freeimage.host/i/fT3VYqN" alt="GitHub stats" />
 </div>
 
 <!-- Tools section -->
