@@ -21,9 +21,9 @@ Hello! I'm Jonathan, a Software Engineer who finished his PhD Thesis in 2023. Du
 > 📈 Here you have some stats about my Github profile.
 >
 
-<p align="center">
-  <img src="https://freeimage.host/i/fT3cInt" alt="GitHub stats"/>
-</p>
+<div align="center">
+  <img src="https://iili.io/fT3cInt.png" alt="GitHub stats" />
+</div>
 
 <!-- Tools section -->
 > 💻 Tools, languages, and other things that I like to work with.
